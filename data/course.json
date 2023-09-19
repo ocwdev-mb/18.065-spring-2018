@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "1eeeae2b-b554-56de-8d33-8d16616673a3",
+  "instructors": {
+    "content": [
+      "84b06ab4-b3e7-63cc-f537-5507e60fa961"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a24ae149-b417-e01d-b75f-22ca566124e1",
+    "website": "18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018"
+  },
+  "course_title": "Matrix Methods in Data Analysis, Signal Processing, and Machine Learning",
+  "course_description": "Linear algebra concepts are key for understanding and creating machine learning algorithms, especially as applied to deep learning and neural networks. This course reviews linear algebra with applications to probability and statistics and optimization\u2013and above all a full explanation of deep learning.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "18.0651",
+  "primary_course_number": "18.065",
+  "course_image_thumbnail": {
+    "content": "6fc0c9f8-ce06-143d-ba32-a0ee3216c06a",
+    "website": "18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Instructor Insights"
+  ],
+  "site_uid": "448b8c9a-8826-467d-86ef-15c50bdc4c84",
+  "site_short_id": "18.065-spring-2018",
+  "title": "Course Metadata"
+}
